@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\OrianaSupportBackend\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\OrianaSupportBackend\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\ouzAk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\OrianaSupportBackend\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

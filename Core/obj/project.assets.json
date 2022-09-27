@@ -8872,11 +8872,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\OrianaSupportBackend\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\OrianaSupportBackend\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\ouzAk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\OrianaSupportBackend\\Core\\obj\\",
+      "outputPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

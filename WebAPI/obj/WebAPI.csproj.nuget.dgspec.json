@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\DataAccess\\DataAccess.csproj",
-        "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\WebAPI\\WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\ouzAk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -42,14 +42,12 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[5.6.3, )"
             }
           },
           "imports": [
@@ -63,6 +61,14 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }

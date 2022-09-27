@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V+qhxbuWtAAIF3GwzwdgIOtsYnXyVtGT/7MZMI67tIhdecXKX4aD+clHa5GJtwxsvrnt7R+vv6z6KxP+nzn9yA==",
+  "dgSpecHash": "Q5LcW63X6lU4N78i+a74LC7GkcVchIetOifE5GkYtuU/iR59v6Tog4qGmgOvtl8pJJS3gJb+HLRQc8DKP0Dgog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\OrianaSupportBackend\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ouzAk\\.nuget\\packages\\abp\\7.3.0\\abp.7.3.0.nupkg.sha512",
     "C:\\Users\\ouzAk\\.nuget\\packages\\autofac\\4.9.1\\autofac.4.9.1.nupkg.sha512",

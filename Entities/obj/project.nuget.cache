@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p63s+otp3lSvuk+z786EID9Duo6GDwkt2b9fG39WaWzvPBozunnyzIMN4LnIArP8JAZ9v5g4bNcD86+yeLZs9g==",
+  "dgSpecHash": "v3rofxGi86rWCiVbK/TeqDAA8kK+D3gXlkPEfXnNGFgDos4HUF6SlHBA70ofFlqNDSUU12RFIPsAPusCv/qPnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\OrianaSupportBackend\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ouzAk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ouzAk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

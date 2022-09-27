@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gmiyWtISoQRzdwLQP8kQ8G+zAa2HwWq+qt9dhhkTx+nOoQ3O4U3wQd2dqb4byw4xkCGGogoNRjEeOTOfv2/2DA==",
+  "dgSpecHash": "QSGOjTs20jN3V3Oo85uA3kX5jUWQqY/Kvqp/xrPco7ch/LVR9+2Cl+0sM5+cZr07lXfbt5lmH+Uj+h9vwx4eig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\OrianaSupportBackend\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\ouzAk\\OneDrive\\Belgeler\\GitHub\\OrianaSupportBackend\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ouzAk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ouzAk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
